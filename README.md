@@ -20,10 +20,11 @@ This project is the final exam assignment of HIOK0002FU Language Processing 2 at
 In this repo, we employed three approaches: Prompt engineering, BERT and TF-IDF (Baseline).  
 Group members: Yuwei Shen, Qing Li and Shiling Deng  
 
+### [pre-training LLMs](https://github.com/Seefreem/llm_pre_training_acceleration)
+In this repository, I explored teacher-student pretraining (knowledge distillation). I utilized a bi-gram model as the teacher and a smaller LLaMA-2 model as the student. By gradually adjusting the influence of the teacher model during training, the student model showed a slight improvement in performance on the validation dataset.  
 
 ### [LLM](https://github.com/Seefreem/LLM)
 This repo is about Large Language Models. It holds some of my notes and experiments.  
-
 
 ### [KnowledgeBase](https://github.com/Seefreem/KnowledgeBase)
 This repo serves as a handbook.   
