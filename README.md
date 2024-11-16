@@ -1,4 +1,4 @@
-# Welcome to Shiling's Pages
+# 欢迎访问邓世玲的主页 (Welcome to Shiling's Pages)
 
 ## Summary of my GitHub
 ### [university_of_copenhagen](https://github.com/Seefreem/university_of_copenhagen)
