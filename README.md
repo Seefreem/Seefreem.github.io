@@ -4,6 +4,16 @@
 ### [university_of_copenhagen](https://github.com/Seefreem/university_of_copenhagen)
 This Repo has assignments I have had at the University of Copenhagen.  
 
+### [ITU_ANLPDL_Final](https://github.com/Seefreem/ITU_ANLPDL_Final)
+Project: Uncertainty Prediction: An Exploratory Experiment on Representation Engineering Approach  
+This project is a mini research project of the course Advanced Natural Language Processing and Deep Learning at the IT University of Copenhagen.   
+This study explores a representation-distribution-based approach using Gaussian Mixture Models (GMMs) to estimate confidence in LLM responses by modeling last-token representation distributions to distinguish between known and unknown answers. Experiments on CoQA and TriviaQA show that GMMs perform well on factual tasks but struggle with language comprehension.  
+
+### [KU_ATNLP_Individual_Assignment](https://github.com/Seefreem/KU_ATNLP_Individual_Assignment)
+Project: Using BERT for Text Generation and Assessing Its Generalization Ability   
+This project is the final exam assignment of the course Advanced Topics in Natural Language Processing at the University of Copenhagen.   
+Studied the text generation and compositional abilities of BERT. Developed Generative-BERT (GBERT), a novel approach leveraging masked language modeling to generate full sentences. Experiments on the SCANdataset reveal GBERT's near-perfect accuracy on the training distribution but limited extrapolation ability.
+
 ### [meme_text_retrieval_p1](https://github.com/Seefreem/meme_text_retrieval_p1)
 This repo contains the source code for my project outside course scope at Pioneer Centre for Artificial Intelligence, Denmark.  
 Project title: Meme-text retrieval: a new dataset and a cross-model embedder  
